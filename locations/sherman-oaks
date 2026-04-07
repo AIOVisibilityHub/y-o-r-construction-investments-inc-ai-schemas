@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "name": "YOR Construction - Sherman Oaks",
+  "url": "https://yorconstruction.com/locations/sherman-oaks",
+  "telephone": "+1-888-457-7746",
+  "email": "y.o.r.construction@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14320 Ventura Blvd, Ste 700",
+    "addressLocality": "Sherman Oaks",
+    "addressRegion": "CA",
+    "postalCode": "91423",
+    "addressCountry": "US"
+  }
+}
+</script>
